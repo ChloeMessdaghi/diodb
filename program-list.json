@@ -15206,6 +15206,22 @@
       "contact_email": "security@proofpoint.com"
    },
    {
+      "program_name": "Protect AI",
+      "policy_url": "https://protectai.com/vulnerability-disclosure-policy",
+      "launch_date": "",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "full",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "https://protectai.com/.well-known/security.txt",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_email": "security@protectai.com"
+   },
+   {
       "program_name": "ProtonMail",
       "policy_url": "https://protonmail.com/blog/responsible-vulnerability-disclosure/",
       "launch_date": "",
